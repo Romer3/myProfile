@@ -9,17 +9,17 @@
     "description": "Roma Herasymov Portfolio Website",
     "icons": [
         {
-            "src": "/profile.png",
+            "src": "/ava.jpg",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/profile.png",
+            "src": "/ava.jpg",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "/profile.png",
+            "src": "/ava.jpg",
             "sizes": "384x384",
             "type": "image/png"
         },

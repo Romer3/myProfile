@@ -1,7 +1,7 @@
 export default {
   header: 'Roma Herasymov - Portfolio Website',
   title: 'Roma Herasymov - Portfolio Website',
-  favicon: '/profile.jpg',
+  favicon: '/profile.png',
   link: '',
   deskripsi:
     "Hi everyone, my name is Roma Herasymov. I'm a Junior Developer.",

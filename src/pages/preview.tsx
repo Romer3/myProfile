@@ -1,7 +1,7 @@
 const Preview = () => {
   const mode = {
     dev: 'http://localhost:3000',
-    prod: 'https://my-profil-dalu4vhb5-romer228.vercel.app',
+    prod: 'https://herasymov.vercel.app',
   };
   return (
     <iframe
