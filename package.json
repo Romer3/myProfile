@@ -46,8 +46,9 @@
   },
   "optionalDependencies": {
     "fork-ts-checker-webpack-plugin": ">=5.0.0"
-  },
+  }
   "pnpm": {
+  "packageManager": "pnpm@7.5.1",
     "peerDependencyRules": {
       "ignoreMissing": [
         "@babel/core",
