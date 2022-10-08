@@ -73,23 +73,7 @@ const _404 = () => {
     </>
   );
 
-  /* return (
-    <div className='min-h-screen min-w-screen grid place-items-center'>
-        <div className='w-full'>
-          <img src="/404.svg" alt="404" className='w-full' />
-        </div>
-        <div className='w-full flex flex-col'>
-          <GradientText
-            from='from-sky-400'
-            to='to-blue-600'
-            style='font-black text-3xl'
-          >
-            Oops...
-          </GradientText>
-          <p className='font-medium'>You're visiting a page that doesn't exist</p>
-        </div>
-      </div>
-      ) */
+
 };
 
 export default _404;

@@ -19,7 +19,7 @@ const Projects = () => {
 
   return (
     <div>
-      <div className='mb-8 w-screen scroll-mt-8 bg-base-100 py-16 text-base-content' id='projects'>
+      <div className='mb-8 w-screen scroll-mt-20 bg-base-100 py-16 text-base-content' id='projects'>
         <div className='container mx-auto space-y-10 px-6 md:px-12 lg:px-56'>
           <motion.div
             variants={variants}

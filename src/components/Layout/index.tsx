@@ -5,7 +5,6 @@ import { setIsMenuOpened } from '@/redux/slices/menu.slice';
 import Navbar from '../Navbar';
 import { menu } from './data';
 import { LayoutProps } from './index.d';
-// import Footer from '../Footer/Footer';
 
 const Layout = ({ children }: LayoutProps) => {
   const dispatch = useDispatch();
@@ -29,15 +28,12 @@ const Layout = ({ children }: LayoutProps) => {
           onChange={() => dispatch(setIsMenuOpened())}
         />
         <div className='drawer-content flex flex-col overflow-x-hidden'>
-          {/* Navbar */}
           <Navbar />
-          {/* Page content here */}
           {children}
         </div>
         <div className='drawer-side'>
           <label htmlFor='my-drawer-3' className='drawer-overlay'></label>
           <ul className='menu p-4 overflow-y-auto w-4/6 bg-base-100'>
-            {/* Sidebar content here */}
             {menu.map((value) => {
               return (
                 <li key={value.title}>

@@ -3,12 +3,10 @@ import Data from './data';
 const MetaTags = () => {
   return (
     <>
-      {/* google site verification */}
       <meta
         name='google-site-verification'
         content=''
       />
-      {/* metadata */}
       <meta name='description' content={Data.deskripsi} />
       <meta name='keywords' content={Data.keywords.join(',')} />
       <meta name='twitter:card' content='summary' />

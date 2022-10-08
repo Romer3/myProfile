@@ -24,7 +24,7 @@ const Home = () => {
     <>
       <Head>
         <MetaTags />
-        <title>Roma - Portfolio</title>
+        <title>Portfolio</title>
       </Head>
       <ToastContainer
         position='bottom-right'

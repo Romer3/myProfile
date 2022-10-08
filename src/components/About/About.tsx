@@ -42,15 +42,6 @@ const About = () => {
                 viewport={{ once: true }}
                 className='avatar'
               >
-                {/* <div className='w-36 md:w-5/6'>
-                  <Image
-                    src={about.picture}
-                    width={500}
-                    height={500}
-                    className='rounded-full'
-                    alt='Foto gweh'
-                  />
-                </div> */}
                 <div className='group relative aspect-square h-fit w-36 rounded-full bg-base-100 md:w-5/6'>
                   <div>
                     <Image
