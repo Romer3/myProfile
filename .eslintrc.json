@@ -55,6 +55,12 @@
       }
     ]
   },
+  "prettier/prettier": [
+    "error",
+    {
+      "printWidth": 200
+    }
+  ],
   "settings": {
     "react": {
       "version": "detect"
