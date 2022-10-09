@@ -27,7 +27,7 @@ export const skills: ISkills[] = [
         type: 'Framework/Library'
     },
     {
-        title: 'Node.js (Runtime)',
+        title: 'Node.js',
         icon: 'node.svg',
         type: 'Framework/Library'
     },
