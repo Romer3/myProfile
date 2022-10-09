@@ -31,7 +31,7 @@ export default class MyDocument extends Document {
             async
             defer
             data-website-id='285223d1-eb6c-4b6e-a2a2-c0ca69ce122c'
-            src='https://my-profil-three.vercel.app'
+            src='https://herasymov.vercel.app'
           />
         </Head>
         <body className='font-body'>

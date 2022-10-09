@@ -14,6 +14,7 @@ import Projects from '@/components/Projects/Projects';
 
 
 import 'react-toastify/dist/ReactToastify.min.css';
+import Skills from "@/components/Skills/Skills";
 
 const Home = () => {
   useEffect(() => {
@@ -47,6 +48,7 @@ const Home = () => {
           <Hero />
           <About />
           <Projects />
+          <Skills/>
           <Footer />
         </Layout>
         <BackToTop />

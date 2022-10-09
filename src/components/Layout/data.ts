@@ -11,4 +11,8 @@ export const menu = [
     title: 'Projects',
     to: '#projects',
   },
+  {
+    title: 'Skills',
+    to: '#skills',
+  },
 ];
