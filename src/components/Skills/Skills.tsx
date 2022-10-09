@@ -31,7 +31,7 @@ const About = () => {
                 ></path>
             </svg>
             <div className='-my-px scroll-mt-24 bg-blue-500 text-base-100' id='skills'>
-                <div className='container mx-auto space-y-20 px-10 md:h-[32rem] lg:h-[40rem] md:px-10 lg:px-48'>
+                <div className='container mx-auto space-y-20 px-10 md:h-[32rem] lg:h-[42rem] md:px-10 lg:px-48'>
                     <motion.div
                         variants={variants}
                         initial='fromBottom'

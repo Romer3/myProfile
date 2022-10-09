@@ -54,7 +54,7 @@ const Projects = () => {
               ))}
             </motion.div>
             <div className='grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3'>
-              <AnimatePresence exitBeforeEnter>
+              <AnimatePresence>
                 {projects
                   .filter((value) => value.type === activeTab)
                   .map((value) => (
