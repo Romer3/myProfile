@@ -78,7 +78,7 @@ const About = () => {
                                             key={value.title}
                                         >
                                             <SkillBox
-                                                title={`${value.title}`}
+                                                title={value.title}
                                                 icon={value.icon}
                                                 variants={variants}
                                                 key={value.title}
