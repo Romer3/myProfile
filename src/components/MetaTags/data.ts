@@ -1,8 +1,8 @@
 export default {
   header: 'Roma Herasymov - Portfolio Website',
-  title: 'Roma Herasymov - Portfolio Website',
+  title: 'Roma Herasymov - Portfolio',
   favicon: '/profile.png',
-  link: 'herasymov.vercel.app',
+  link: 'herasymov-3agv39c33-romer228.vercel.app',
   deskripsi:
     "Hi everyone, my name is Roma Herasymov. I'm a Junior Developer.",
   thumbnail: '/profile.png',

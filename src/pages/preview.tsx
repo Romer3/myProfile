@@ -1,7 +1,7 @@
 const Preview = () => {
   const mode = {
-    dev: 'http://localhost:3000',
-    prod: 'https://herasymov.vercel.app',
+    dev: 'herasymov-3agv39c33-romer228.vercel.app',
+    prod: 'herasymov-3agv39c33-romer228.vercel.app',
   };
   return (
     <iframe
